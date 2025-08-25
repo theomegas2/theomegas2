@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Aoutomation meeting/discussion.👋 
 I'd like to 'invite all comers in the works of our repositories of project,matters and 'issues, 'to join our last collaboration as ameatures, and join to lead in our special time automation).
 <!--
 **theomegas2/theomegas2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
